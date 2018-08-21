@@ -1,0 +1,2 @@
+*.sql linguist-language=mysql
+*.csv linguist-language=CSV
