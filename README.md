@@ -17,9 +17,11 @@
 &nbsp;
 &nbsp;
 ## 捐赠支持
-由于大部分条码数据接口都收费或者限制调用等情况，所以共享免费才弥足珍贵。
-数据收集整理不易，如果此项目对您有帮助欢迎您Fork、Star或捐赠支持. 
+由于大部分条码数据接口都收费或者限制调用等情况，所以共享免费才弥足珍贵。  
+数据收集整理不易，如果此项目对您有帮助欢迎您Fork、Star或捐赠支持.   
 
-人人为我，我为人人。
+人人为我，我为人人。  
 
+<center class="half">
 ![微信收款码](https://github.com/EricLiuCN/barcode/blob/master/wxpay.jpg "微信收款码") ![支付宝收款码](https://github.com/EricLiuCN/barcode/blob/master/alipay.jpg "支付宝收款码") 
+ </center>
