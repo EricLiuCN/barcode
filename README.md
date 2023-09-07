@@ -1,13 +1,18 @@
 # barcode
-69码，超市商品条码库，商品信息库，共100万条  
+69码，超市商品条码库，商品信息库，共100万条 。药品条码信息库，共4万余条。 
 
 本库中条码数据并不完善，如您有更详细的数据欢迎您提交Pull requests.
 
-![条码库截图](https://github.com/EricLiuCN/barcode/blob/master/preview.png "商品条码库") 
+![商品条码库截图](https://github.com/EricLiuCN/barcode/blob/master/preview.png "商品条码库") 
+
+![药品条码库截图](https://github.com/EricLiuCN/barcode/blob/master/medicine_info.png "药品条码库") 
    
 &nbsp;
 &nbsp;
 ## 更新记录
+2023-09-07  
+  * 增加药品条码信息(4W+)  
+
 2021-05-07  
   * 增加价格、品牌和厂商信息  
 
